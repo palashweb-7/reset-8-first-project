@@ -68,13 +68,70 @@ h1{
     padding: 50px 650px 50px 140px;
 }
 .photo-galary{
-    background-image: url(Rectangle2-Copy.png);
-    background-image: url(Rectangle1-Copy.png);
+   
+    background-image: url(rack-two.png);
     margin: 50px 140px;
+    background-repeat: no-repeat;
+    background-size: 300px;
+    background-position: right;
 }
 .mix-photo{
   padding: ;
 }
 .box-photo{
     width: 300px;
+   
+}
+.box-photo-two{
+    width: 200px;
+    padding-left: 270px;
+   
+}
+.bag-header{
+    display: flex;
+   margin: 0px 140px;
+   gap: 15px;
+}
+.bag-price img{
+    width: 320px;
+}
+.search{
+    margin: 0 140px;
+    background-color: bisque;
+}
+.middle{
+    padding: 30px 300px 30px 300px;
+    text-align: center;
+
+}
+.searching{
+    padding: 6px 10px;
+    
+}
+.searching-two{
+    background-color:orangered ;
+    padding: 6px 10px;
+    border: 0;
+    border-radius: 5%;
+}
+.inputing{
+    display: flex;
+
+}
+footer{
+    background-color: black;
+    margin: 50px 140px
+   
+
+}
+.main-footer{
+    display: flex;
+     padding: 50px 0;
+    justify-content: space-around;
+    color: white;
+}
+.icone{
+    text-align: center;
+    margin-top: 10px;
+    padding-bottom: 20px;
 }
