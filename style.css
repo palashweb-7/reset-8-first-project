@@ -65,5 +65,16 @@ h1{
    padding: 50px 140px;
 }
 .stutas-value{
-    padding: 50px 890px 50px 140px;
+    padding: 50px 650px 50px 140px;
+}
+.photo-galary{
+    background-image: url(Rectangle2-Copy.png);
+    background-image: url(Rectangle1-Copy.png);
+    margin: 50px 140px;
+}
+.mix-photo{
+  padding: ;
+}
+.box-photo{
+    width: 300px;
 }
