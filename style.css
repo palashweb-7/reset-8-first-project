@@ -1,0 +1,69 @@
+.baanner-section{
+    background-image: url(Banner.png);
+    background-repeat: no-repeat;
+    margin: 50px 140px;
+    background-size: 1060px;
+
+    
+}
+.header-section{
+    padding: 200px 340px 240px 340px;
+    
+   
+    
+}
+.happy-new-year , .celebration{
+    color: white;
+    text-align: center;
+    font-weight: 900px;
+   
+   
+}
+.offer{
+    text-align: center;
+}
+.banner-two{
+    background-image: url(Vector.png);
+    margin: 50px 140px;
+    background-repeat: no-repeat;
+    background-size: 1060px;
+
+}
+.banner-value{
+    padding: 125px 550px 300px 125px;  
+}
+h1{
+    font-size: 28px;
+}
+.address{
+    margin: 50px 140px;
+    /* background-size: 1060px; */
+}
+
+.description{
+    padding: 100px 360px 200px 360px;
+    background-color:rgb(248, 222, 222);
+
+}
+.image{
+    border: 7px solid red;
+    border-radius: 150%;
+    width: 200px;
+    height: 200px;
+    padding: 7px;
+
+}
+.comming-soon{
+    display: flex;
+    margin: 80px 140px;
+    align-items: center;
+    
+    gap: 100px;
+}
+.stutas{
+   text-align:center;
+   padding: 50px 140px;
+}
+.stutas-value{
+    padding: 50px 890px 50px 140px;
+}
